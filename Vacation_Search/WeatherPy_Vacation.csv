@@ -16,6 +16,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 46,Karatau,KZ,76.28000000000004,overcast clouds,43.1667,70.4667,Baza Zika
 51,Dulce Nombre De Culmi,HN,82.63399999999999,overcast clouds,15.1,-85.5333,Hotel Zuniama
 52,Monroe,US,79.28600000000007,scattered clouds,43.1501,-77.6831,Rodeway Inn Rochester Airport
+54,Gazli,UZ,87.18800000000005,few clouds,40.1333,63.45,UTG Uy-joy kommunal xoʻjaligi
 57,Basco,PH,84.59600000000005,overcast clouds,20.4487,121.9702,Nathaniel's Lodge
 59,Yellowknife,CA,75.72200000000004,broken clouds,62.456,-114.3525,The Explorer Hotel
 60,Butaritari,KI,82.09400000000008,overcast clouds,3.0707,172.7902,Isles Sunset Lodge
@@ -32,10 +33,10 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 105,El Vigia,VE,82.184,overcast clouds,8.6219,-71.6506,Liceo Bolivariano 19 De Abril
 111,Laguna,US,89.29400000000007,clear sky,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
 113,Port Blair,IN,78.83600000000007,mist,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
-115,Yasothon,TH,84.03800000000004,moderate rain,15.75,104.1333,Ban Suan Varaphan
+115,Yasothon,TH,84.03800000000004,moderate rain,15.75,104.1333,"Dhooromeyen, Nornedang,Yasothon, Thailand"
 116,Santa Rosa,PH,80.58200000000002,overcast clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
 119,Labuhan,ID,77.52200000000003,overcast clouds,-6.8844,112.2051,DoubleFAG
-120,Atuona,PF,77.12600000000009,scattered clouds,-9.8,-139.0333,Villa Enata
+120,Atuona,PF,77.12600000000009,scattered clouds,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
 126,Samarai,PG,81.03200000000001,overcast clouds,-10.6167,150.6667,Nuli Sapi
 130,San Cristobal,VE,77.18000000000004,overcast clouds,7.7669,-72.225,Pirineos
 133,Georgetown,MY,82.32800000000006,scattered clouds,5.4112,100.3354,Cititel Penang
@@ -59,7 +60,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 207,Victoria,HK,79.32200000000003,overcast clouds,22.2855,114.1577,Mini Central
 210,Pochutla,MX,86.14400000000008,overcast clouds,15.7432,-96.4661,Hotel Posada San Jose
 215,Jeremie,HT,82.79600000000005,overcast clouds,18.65,-74.1167,Auberge’Inn
-218,Kavaratti,IN,82.43600000000006,overcast clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+218,Kavaratti,IN,82.43600000000006,overcast clouds,10.5669,72.642,Green leaf
 219,Port-Gentil,GA,76.96400000000003,few clouds,-0.7193,8.7815,Fengshui Residence
 221,Darapidap,PH,77.30600000000003,overcast clouds,17.2131,120.4114,Candon Beach Resort
 222,Ternate,ID,79.61000000000008,overcast clouds,0.8,127.4,Sahid Bela Ternate Hotel
@@ -79,13 +80,13 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 282,Porto Novo,BJ,84.02000000000007,moderate rain,6.4965,2.6036,Tour Eiffel Hotel Benin
 283,Iracoubo,GF,79.84400000000008,broken clouds,5.4802,-53.2011,Le Gîte d’Iracoubo
 284,Champerico,GT,86.54000000000002,overcast clouds,14.3,-91.9167,"Hotel y restaurante ""El Diamante"""
-285,Amapala,HN,76.64000000000001,overcast clouds,13.2922,-87.6539,Restaurante y Casa de Huespedes Veleros
+285,Amapala,HN,76.64000000000001,overcast clouds,13.2922,-87.6539,Hotel Brisas del Sur
 288,Sola,VU,80.79800000000003,overcast clouds,-13.8833,167.55,Leumerus Bungalows
 291,Broome,US,80.65400000000005,scattered clouds,42.2506,-75.833,Chenango Valley State Park
 301,Makakilo City,US,76.60400000000006,clear sky,21.3469,-158.0858,Marriott's Ko Olina Beach Club
 302,Carutapera,BR,76.96400000000003,overcast clouds,-1.195,-46.02,Lidera
 303,Yanam,IN,79.77200000000003,overcast clouds,16.7333,82.2167,The Regency Hotel
-306,Brufut,GM,78.89000000000001,broken clouds,13.3814,-16.7518,Sheraton Gambia Hotel Resort & Spa
+306,Brufut,GM,78.89000000000001,broken clouds,13.3814,-16.7518,Gambia Hotel Resort & Spa
 308,Qurayyat,SA,77.18000000000004,clear sky,31.3318,37.3428,Resorts Kandel
 309,Itarema,BR,76.96400000000003,clear sky,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
 319,Komsomolskiy,UZ,75.92000000000006,broken clouds,40.4272,71.7189,Ikathouse
@@ -109,6 +110,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 387,Guiratinga,BR,76.49600000000005,scattered clouds,-16.3494,-53.7583,Hotel Angra do Cerrado - Guiratinga MT
 389,Teloloapan,MX,78.49400000000007,overcast clouds,18.35,-99.85,Hotel Las Palmas
 393,Yarmouth,US,78.908,clear sky,41.7057,-70.2286,Blue Rock Resort
+401,Marzuq,YE,79.71800000000009,clear sky,14.4,46.4667,حيد القفلة
 402,Jalu,LY,79.41200000000006,clear sky,29.0331,21.5482,صاحبة الفخامة
 405,Nishihara,JP,78.85400000000006,shower rain,26.1842,127.7558,Minshuku Agaihama
 407,Birjand,IR,81.06800000000008,scattered clouds,32.8663,59.2211,Birjand Tourist Hotel
@@ -144,7 +146,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 495,Kaohsiung,TW,81.03200000000001,moderate rain,22.6163,120.3133,御宿商旅-中山館
 497,Pitimbu,BR,79.39400000000008,clear sky,-7.4706,-34.8086,Reserva do Abiaí
 500,Pacific Grove,US,81.55400000000006,few clouds,36.6177,-121.9166,Lovers Point Inn
-501,Ranong,TH,78.47600000000008,overcast clouds,9.9658,98.6348,Tinidee Hotel@Ranong
+501,Ranong,TH,78.47600000000008,overcast clouds,9.9658,98.6348,Numsai Khaosuay Resort Ranong
 505,Deer Lake,CA,75.05600000000003,broken clouds,49.1667,-57.4316,"Holiday Inn Express Deer Lake, an IHG Hotel"
 508,Kuah,MY,80.58200000000002,few clouds,6.3265,99.8432,Azio Hotel
 514,Jose De Freitas,BR,86.95400000000005,clear sky,-4.7564,-42.5756,É Antônio de Souza construção
@@ -165,7 +167,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 562,Hami,CN,86.12600000000009,overcast clouds,42.8,93.45,Laoyutang Resort
 565,Manadhoo,MV,82.76000000000008,few clouds,5.7667,73.3833,Bon Abri maldives
 570,Auki,SB,79.75400000000005,scattered clouds,-8.7676,160.7034,Auki Motel
-571,Ishurdi,BD,82.32800000000006,overcast clouds,24.1333,89.0833,Rafiur Rahman
+571,Ishurdi,BD,82.32800000000006,overcast clouds,24.1333,89.0833,Jobair
 575,Matara,LK,79.16000000000008,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
 577,Yenagoa,NG,75.308,light rain,4.9247,6.2642,Aridolf Resort Wellness and Spa
 579,Bubaque,GW,79.25,overcast clouds,11.2833,-15.8333,"Casa Dora, Bubaque"
@@ -184,7 +186,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 614,Nanakuli,US,78.0260000000001,clear sky,21.3906,-158.1547,Camp Pālehua
 616,Khao Yoi,TH,79.592,overcast clouds,13.2403,99.8243,เปิ้ล ทำเบาะ
 621,Cusuna,HN,82.31000000000009,overcast clouds,15.85,-85.2333,San Francisco de la paz
-623,Adiake,CI,77.70200000000008,broken clouds,5.2863,-3.304,Complexe Le Crystal
+623,Adiake,CI,77.70200000000008,broken clouds,5.2863,-3.304,HOTEL COEUR D'OR
 628,Mehriz,IR,82.90400000000005,few clouds,31.5917,54.4318,Mehrgard dwelling/سرای مهرگرد
 630,Umm Lajj,SA,83.78600000000007,clear sky,25.0213,37.2685,Moon light Furnished Units
 638,Mancio Lima,BR,82.47200000000004,clear sky,-7.6142,-72.8958,Motel Asas Do Desejo
